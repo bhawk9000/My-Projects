@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1489628478 source:c:\users\hyjacker\desktop\project 1\main.cpp
+	"rational.hpp"
+	<cassert>
+	<iostream>
+	<unistd.h>
+
+1489628984 c:\users\hyjacker\desktop\project 1\rational.hpp
+	<cstdlib>
+	<iosfwd>
+	<iostream>
+	<stdlib.h>
+
+1489790383 source:c:\users\hyjacker\desktop\project 1\rational.cpp
+	"rational.hpp"
+	<iostream>
+
+1488337486 source:c:\users\laptop\desktop\project 1\main.cpp
+	"rational.hpp"
+	<cassert>
+	<iostream>
+	<unistd.h>
+
+1488315508 c:\users\laptop\desktop\project 1\rational.hpp
+	<cstdlib>
+	<iosfwd>
+	<iostream>
+	<stdlib.h>
+
+1488337625 source:c:\users\laptop\desktop\project 1\rational.cpp
+	"rational.hpp"
+	<iostream>
+
+1489624878 source:c:\users\hyjacker\desktop\csx shit\cs2\project 1\main.cpp
+	"rational.hpp"
+	<cassert>
+	<iostream>
+	<unistd.h>
+
+1489625384 c:\users\hyjacker\desktop\csx shit\cs2\project 1\rational.hpp
+	<cstdlib>
+	<iosfwd>
+	<iostream>
+	<stdlib.h>
+
+1489786783 source:c:\users\hyjacker\desktop\csx shit\cs2\project 1\rational.cpp
+	"rational.hpp"
+	<iostream>
+

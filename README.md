@@ -17,4 +17,12 @@
    person shooter that can be played online. It can either be played with LAN or by hosting
    an online match. This was written in C# and used in Unity3D.
 
-5. 
+5. Solr Settings - This consists of the managed-schema and solrconfig files that I modified
+   in order to scrape eBay listings and index them to a search engine I created using 
+   Apache Solr.
+
+6. Chess Enemy A.I. - This consists of the Minimax.java script written that allows the 
+   computer player to make decisions using the Minimax algorithm. This was added to an already
+   created chess game. Written in Java.
+
+7. Rational Number Calculator - Complete calculator written in C++.
